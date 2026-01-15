@@ -25,4 +25,4 @@ services:
 
 databases:
   - name: tnt-sistem-db
-    plan: starter
+    plan: free
