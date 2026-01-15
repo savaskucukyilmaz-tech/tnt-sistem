@@ -19,3 +19,10 @@ This repo is prepared for **Render Blueprint** deployment (render.yaml at repo r
 
 ## Environment variables
 Render Blueprint defines required env vars. See `render.yaml`.
+## Demo giriş bilgileri (Staging)
+
+- Admin panel: `/admin`
+- Kullanıcı adı: `patron`
+- Şifre: `demo1234`
+
+> Not: Render üzerinde (ücretsiz/ucuz staging için) varsayılan veritabanı SQLite kullanılır. Prod aşamasında Postgres'e geçeceğiz.
