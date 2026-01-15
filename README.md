@@ -26,3 +26,5 @@ Render Blueprint defines required env vars. See `render.yaml`.
 - Şifre: `demo1234`
 
 > Not: Render üzerinde (ücretsiz/ucuz staging için) varsayılan veritabanı SQLite kullanılır. Prod aşamasında Postgres'e geçeceğiz.
+
+test
